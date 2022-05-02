@@ -1,2 +1,2 @@
-# firebase_example
+# Firebase Example
 update example Firebase
