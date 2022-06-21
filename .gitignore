@@ -1,0 +1,9 @@
+#remove node folders
+node_modules
+node-fb-*.json
+keys.json
+
+#remove .env file
+.env
+#remove service-acount file
+_credentials.json
